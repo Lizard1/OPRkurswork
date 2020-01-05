@@ -1,0 +1,20 @@
+D:\Install2\Visual Studio 2013\Project\OPR\KursWorkOPR\KursWorkOPR\bin\Debug\KursWorkOPR.exe.config
+D:\Install2\Visual Studio 2013\Project\OPR\KursWorkOPR\KursWorkOPR\bin\Debug\KursWorkOPR.exe
+D:\Install2\Visual Studio 2013\Project\OPR\KursWorkOPR\KursWorkOPR\bin\Debug\KursWorkOPR.pdb
+D:\Install2\Visual Studio 2013\Project\OPR\KursWorkOPR\KursWorkOPR\obj\Debug\KursWorkOPR.csprojResolveAssemblyReference.cache
+D:\Install2\Visual Studio 2013\Project\OPR\KursWorkOPR\KursWorkOPR\obj\Debug\KursWorkOPR.Form1.resources
+D:\Install2\Visual Studio 2013\Project\OPR\KursWorkOPR\KursWorkOPR\obj\Debug\KursWorkOPR.Properties.Resources.resources
+D:\Install2\Visual Studio 2013\Project\OPR\KursWorkOPR\KursWorkOPR\obj\Debug\KursWorkOPR.csproj.GenerateResource.Cache
+D:\Install2\Visual Studio 2013\Project\OPR\KursWorkOPR\KursWorkOPR\obj\Debug\KursWorkOPR.exe
+D:\Install2\Visual Studio 2013\Project\OPR\KursWorkOPR\KursWorkOPR\obj\Debug\KursWorkOPR.pdb
+D:\Install2\Visual Studio 2013\Project\OPR\KursWorkOPR\KursWorkOPR\bin\Debug\ELW.Library.Math.pdb
+D:\KursWorkOPR\KursWorkOPR\bin\Debug\KursWorkOPR.exe.config
+D:\KursWorkOPR\KursWorkOPR\obj\Debug\KursWorkOPR.exe
+D:\KursWorkOPR\KursWorkOPR\obj\Debug\KursWorkOPR.pdb
+D:\KursWorkOPR\KursWorkOPR\bin\Debug\KursWorkOPR.exe
+D:\KursWorkOPR\KursWorkOPR\bin\Debug\KursWorkOPR.pdb
+D:\KursWorkOPR\KursWorkOPR\bin\Debug\ELW.Library.Math.pdb
+D:\KursWorkOPR\KursWorkOPR\obj\Debug\KursWorkOPR.csprojResolveAssemblyReference.cache
+D:\KursWorkOPR\KursWorkOPR\obj\Debug\KursWorkOPR.Form1.resources
+D:\KursWorkOPR\KursWorkOPR\obj\Debug\KursWorkOPR.Properties.Resources.resources
+D:\KursWorkOPR\KursWorkOPR\obj\Debug\KursWorkOPR.csproj.GenerateResource.Cache
